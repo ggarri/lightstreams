@@ -1,6 +1,10 @@
-**Note: Lightstreams' codebase is currently NOT Open Source. Below are instructions for running your own pre-compile Docker Image node that will connect to our Test Network**
+# DEPRECATED
+
+**Note: Lightstreams' team is intensily working on a version to optimize the security and performance of our Test Network. Soon we will announce our progress in our [Blog](https://medium.com/lightstreams), if you have any questions we are working in providing prompt feedback throught our [Forum(https://discuss.lightstreams.network/) 
 
 # Lightstreams Network
+**Note: Lightstreams' codebase is currently NOT Open Source. Below are instructions for running your own pre-compile Docker Image node that will connect to our Test Network**
+
 
 [Lightstreams](http://lightstreams.network) is a blockchain network that provides decentralised applications (DApps) that need high performance and data privacy with the required support. We currently use Tendermint for transaction consensus and a Distributed Secure Storage Network based on IPFS that allows for digital contact to be only distributed to authorised nodes.
 
